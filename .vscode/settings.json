@@ -7,5 +7,6 @@
         "sfs.h": "c",
         "ddriver.h": "c",
         "errno.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "/home/students/210110128/fuse/user-land-filesystem/fs/demo"
 }
